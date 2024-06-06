@@ -1,0 +1,4 @@
+#Mon Jun 03 22:54:47 ICT 2024
+base.0=D\:\\bai_test_qsoft\\shopping_cart\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

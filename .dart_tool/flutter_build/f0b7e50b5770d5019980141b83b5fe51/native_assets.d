@@ -1,0 +1,1 @@
+ D:\\bai_test_qsoft\\shopping_cart\\.dart_tool\\flutter_build\\f0b7e50b5770d5019980141b83b5fe51\\native_assets.yaml: 
